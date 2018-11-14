@@ -1,3 +1,3 @@
 # life_simulator
-Simulator of life. OOP.
+Simulator of life.
 Start this app with npm
